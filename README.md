@@ -1,4 +1,5 @@
-                                                                                      Login and Signup Page
+Login and Signup Page
+
 Overview:
 A responsive login and signup interface built with React.js, HTML, CSS, and JavaScript. It allows users to toggle between forms with smooth transitions and includes basic form validation.
 
