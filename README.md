@@ -5,24 +5,24 @@ A responsive login and signup interface built with React.js, HTML, CSS, and Java
 
 1.Features:
 
--> React-based component structure
-
--> Toggle between Login and Signup
-
--> Responsive design
-
--> Basic form validation
+  -> React-based component structure
+  
+  -> Toggle between Login and Signup
+  
+  -> Responsive design
+  
+  -> Basic form validation
 
 2.How to Use:
 
--> Clone the repo
-
--> Run npm install
-
--> Start the app with npm start
+  -> Clone the repo
+  
+  -> Run npm install
+  
+  -> Start the app with npm start
 
 3.Future Improvements:
 
--> Backend API integration
-
--> Advanced validations and animations
+  -> Backend API integration
+  
+  -> Advanced validations and animations
